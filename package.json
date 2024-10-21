@@ -3,7 +3,8 @@
   "packageManager": "yarn@4.2.2",
   "scripts": {
     "build": "tsc",
-    "dev": "nodemon src/index.ts"
+    "dev": "nodemon src/index.ts",
+    "start": "node dist"
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
