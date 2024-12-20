@@ -1,6 +1,6 @@
 
 # WAITERAPP - O APP do Garçom
-![CAPA](./assets/capa.png)
+![CAPA](./assets/Capa.png)
 
 É um sistema completo que permita a um garçom anotar pedidos dos clientes através de um aplicativo mobile, enviando essas informações diretamente para um dashboard de gestão do restaurante. Esse dashboard será acessível pela gerência ou pela cozinha para acompanhar o andamento dos pedidos, atualizar o status e gerar relatórios.
 
